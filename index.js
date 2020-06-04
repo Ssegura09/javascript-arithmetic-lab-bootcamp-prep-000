@@ -32,7 +32,7 @@ function add(a, b){
    return number;
  }
  function makeInt(a){
-   
+   return number;
  }
  
  

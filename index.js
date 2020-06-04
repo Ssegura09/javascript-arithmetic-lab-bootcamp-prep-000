@@ -32,8 +32,9 @@ function add(a, b){
    return number;
  }
  function makeInt(a){
-   return number;
- }
+   number = parseInt(a, 10);
+  return number;
+}
  
  
  

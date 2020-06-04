@@ -31,7 +31,9 @@ function add(a, b){
    number = a - 1;
    return number;
  }
- 
+ function makeInt(a){
+   
+ }
  
  
  

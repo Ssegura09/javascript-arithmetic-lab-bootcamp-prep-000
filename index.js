@@ -36,7 +36,7 @@ function add(a, b){
   return number;
 }
  function preserveDecimal(a){
-   number = parseFloat
+   number = parseFloat (a, 10);
  }
  
  
